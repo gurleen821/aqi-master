@@ -1,2 +1,1 @@
-# aqi-master
-Air quality index
+# AQI-Project
